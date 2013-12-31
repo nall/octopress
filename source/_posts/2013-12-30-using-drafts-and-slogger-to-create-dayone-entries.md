@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Using Drafts and Slogger to Create DayOne Entries"
+title: "Using Drafts and Slogger to Create Day One Entries"
 date: 2013-12-30 15:09:09 -0800
 comments: true
 categories: productivity
