@@ -18,6 +18,7 @@ Lack of appending ability in Day One left me with creating some temporary file
 that could be updated during the day and creating a single Day One entry from
 the contents of that file each day.
 
+<!-- more -->
 I wanted to use [Drafts](http://agiletortoise.com/drafts) to capture my
 micro-updates. I use it for other actions already, so I'm familiar with it. It
 has a huge selection of post-processing actions available and provides ways to
